@@ -2,7 +2,7 @@
 
 // Requirement: Work on dashboardPage test cases
 // 1. Clone the repository inside the local system - git clone <repo url>
-// git clone https://github.com/Praveenroy05/IshaPWJuly.git - create a local git as well
+// git clone https://github.com/mahendradube7/PWTMahendraAug25.git - create a local git as well
 // 2. Install all the dependencies - npm install
 // 3. Check the branches that are available inside the github - git branch
 // 4. Before you start working on the requirement you can create a new feature branch - dashboardPage - git checkout -b branchName
@@ -20,3 +20,6 @@
 // 9. Move to the master branch - git checkout master
 // 10. Pull all the latest changes from the master branch - git pull
 // 11. repeat step from number #4 to #8
+
+
+// git test line Ex.
