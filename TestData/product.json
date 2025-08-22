@@ -1,0 +1,9 @@
+{
+    "url": "https://rahulshettyacademy.com/client",
+    "username": "mahi123@gmail.com",
+    "password": "Pass@123",
+    "Incorrectpassword": "Pass@1234",
+    "errorMessage": "Incorrect email or password",
+    "productName": "IPHONE 13 PRO",
+    "addToCartSucessMsg": "Product Added To Cart"
+}

@@ -1,0 +1,8 @@
+
+npx playwright test = to run all test cases
+npx playwright test /path of test case = to run specific file of test cases
+test.only = will run only this test case
+npx playwright test --debug = to debug test case using playwright inspector tool
+npx playwright codegen https://google.com (website to record and play test) = to record and playback test case
+trace : 'only-on-failure' ,  = to generate trace only for fail test case 
+npx playwright test --ui = its ui test runner to run test case in playwright runner
