@@ -37,7 +37,7 @@ export default defineConfig({
     trace: 'on',
     screenshot:`on`,
     video:`on`,
-    headless:false,
+    headless:true,
   },
 
   /* Configure projects for major browsers */
@@ -47,10 +47,10 @@ export default defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
 
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
-    },
+    // {
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'] },
+    // },
 
     // {
     //   name: 'webkit',
